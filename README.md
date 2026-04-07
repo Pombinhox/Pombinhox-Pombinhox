@@ -1,5 +1,5 @@
 # Pombinhox-Pombinhox
-<h1 align="center">👋 Meu nome é Gabi</h1>
+<h1 align="center">👋 Meu nome é Gabriel Cardoso</h1>
 
 <p align="center">
   🚀 Sempre em busca de conhecimento
