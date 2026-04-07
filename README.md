@@ -1,7 +1,7 @@
 <h1 align="center">👋 Gabriel Cardoso</h1>
 
 <p align="center">
-  🚀 Desenvolvedor Fullstack em evolução | Cibersegurança | ADS e Sistemas
+  🚀 Desenvolvedor Fullstack em evolução | ADS e Sistemas
 </p>
 
 <p align="center">
